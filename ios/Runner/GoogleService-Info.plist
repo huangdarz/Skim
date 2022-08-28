@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>382851062341-m6rv3ev7c7hbf7jebc0vfcm8mugiijf3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.382851062341-m6rv3ev7c7hbf7jebc0vfcm8mugiijf3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>382851062341-925dr3eliatukl19ruob6s0a1g740ib2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAu7ztuoWPOc4f8WI_iKU-d6HNoJpuxcfk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>382851062341</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.receipts</string>
+	<key>PROJECT_ID</key>
+	<string>jdlk-hackathon</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jdlk-hackathon.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:382851062341:ios:9b4598d3b70ebf1183a12c</string>
+	<key>DATABASE_URL</key>
+	<string>https://jdlk-hackathon-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
